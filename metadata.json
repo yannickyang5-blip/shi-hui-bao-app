@@ -1,0 +1,7 @@
+{
+  "name": "Shi Hui Bao (Redesigned)",
+  "description": "A modern, Grab-style food voucher and supply chain application optimizing the user experience for food lovers.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
