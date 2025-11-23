@@ -11,8 +11,8 @@
   "dependencies": {
     "@google/genai": "^0.1.2",
     "react": "^19.2.0",
-    "lucide-react": "^0.400.0", // <-- 确保是 lucide-react (只有一个 L)
-    "react-dom": "^19.2.0"       // <-- 确保这行末尾没有逗号
+    "lucide-react": "^0.400.0",
+    "react-dom": "^19.2.0"
   },
   "devDependencies": {
     "@types/node": "^22.14.0",
